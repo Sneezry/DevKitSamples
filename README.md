@@ -1,1 +1,1 @@
-# DevKitSamples
+# Microsoft MXChip IoT DevKit Samples
