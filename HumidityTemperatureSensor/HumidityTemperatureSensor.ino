@@ -1,5 +1,6 @@
 /*
 *  Read humidity & temperature sensor data
+*  Reference API: https://microsoft.github.io/azure-iot-developer-kit/docs/apis/hts221/
 *
 *  Copyright (c) Microsoft Corporation
 *  All rights reserved.
